@@ -221,12 +221,6 @@ http://localhost:8080
 
 ---
 
-### Task Count Report
-
-![Task Count](images/task-count.png)
-
----
-
 ### Exception Handling
 
 ![Exception Handling](images/exception.png)
