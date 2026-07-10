@@ -199,31 +199,31 @@ http://localhost:8080
 
 ### Get All Employees
 
-![Get All Employees](images/get-all-employees.png)
+![Get All Employees](images-get-all-employees.png)
 
 ---
 
 ### Get All Tasks
 
-![Get All Tasks](images/get-all-tasks.png)
+![Get All Tasks](images-get-all-tasks.png)
 
 ---
 
 ### Completed Tasks
 
-![Completed Tasks](images/completed-tasks.png)
+![Completed Tasks](images-completed-tasks.png)
 
 ---
 
 ### Highest Paid Employee
 
-![Highest Paid Employee](images/highest-salary.png)
+![Highest Paid Employee](images-highest-salary.png)
 
 ---
 
 ### Exception Handling
 
-![Exception Handling](images/exception.png)
+![Exception Handling](images-exception.png)
 
 ## Author
 
