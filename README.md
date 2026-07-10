@@ -194,6 +194,43 @@ http://localhost:8080
 
 ---
 
+
+## API Testing Screenshots
+
+### Get All Employees
+
+![Get All Employees](images/get-all-employees.png)
+
+---
+
+### Get All Tasks
+
+![Get All Tasks](images/get-all-tasks.png)
+
+---
+
+### Completed Tasks
+
+![Completed Tasks](images/completed-tasks.png)
+
+---
+
+### Highest Paid Employee
+
+![Highest Paid Employee](images/highest-salary.png)
+
+---
+
+### Task Count Report
+
+![Task Count](images/task-count.png)
+
+---
+
+### Exception Handling
+
+![Exception Handling](images/exception.png)
+
 ## Author
 
 **Dineshkanna M**
